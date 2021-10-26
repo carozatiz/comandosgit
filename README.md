@@ -18,13 +18,15 @@ Fundamentos de programación
 [GitHub](https://github.com/)
 
 *curso*
-***curso ***
+***curso***
 
-[x] tarea
+- [x] tarea
 
-```html
-  <h1>alimentate saludable
-  </h1>```
+ <head> <h1>Alimentate saludable</h1> </head>
+
+ 
+
+
 
 
 
